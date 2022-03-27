@@ -52,7 +52,7 @@ Lec #2
 
 \[BT\]: 2.6, 2.7, 2.9, 2.13, 2.20, 2.22
 
-Computational question: Implement the Linear program for the capacity expansion problem (as introduced in Lecture 1 (Section 14). Data ([TXT](/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/assignments/data.txt))
+Computational question: Implement the Linear program for the capacity expansion problem (as introduced in Lecture 1 (Section 14). Data ([TXT]({{< baseurl >}}/resources/data))
 
 
 {{< tdclose >}}

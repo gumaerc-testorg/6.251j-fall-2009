@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c2b5958-4a69-764f-493d-f532f4ada03c
 resourcetype: Document
 title: MIT6_251JF09_SDP.pdf
 uid: 08bbc266-0764-c4f6-1bde-5363ae134339
