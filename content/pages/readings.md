@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of readings for the course and information
+  on the required textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 1c2b5958-4a69-764f-493d-f532f4ada03c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Chapter assignments are from the required textbook: Bertsimas, Dimitris, and John Tsitsiklis. _Introduction to Linear Optimization_. Belmont, MA: Athena Scientific, 1997. ISBN: 9781886529199.
@@ -297,7 +303,7 @@ Interior point methods III
 Semidefinite optimization
 {{< tdclose >}}
 {{< tdopen >}}
-Freund, Robert. "Introduction to Semidefinite Programming." ([PDF]({{< baseurl >}}/resources/mit6_251jf09_sdp)) (Used with permission.)
+Freund, Robert. "Introduction to Semidefinite Programming." ({{% resource_link 08bbc266-0764-c4f6-1bde-5363ae134339 "PDF" %}}) (Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
