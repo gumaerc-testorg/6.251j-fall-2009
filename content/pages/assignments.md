@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section contains a list of assigned problems for the course and
+  information on the course textbook.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4f15e8de-d664-151a-e2f2-d67fa69d155c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The table below contains problem set assignments and due dates. Problems are from the course textbook, \[BT\] = Bertsimas, Dimitris, and John Tsitsiklis. _Introduction to Linear Optimization_. Belmont, MA: Athena Scientific, 1997. ISBN: 9781886529199.
@@ -49,7 +58,7 @@ Lec #2
 
 \[BT\]: 2.6, 2.7, 2.9, 2.13, 2.20, 2.22
 
-Computational question: Implement the Linear program for the capacity expansion problem (as introduced in Lecture 1 (Section 14). Data ([TXT](/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/assignments/data.txt))
+Computational question: Implement the Linear program for the capacity expansion problem (as introduced in Lecture 1 (Section 14). Data ({{% resource_link 6017d80f-7a46-f014-78e8-8915b175b6b6 "TXT" %}})
 
 
 {{< tdclose >}}

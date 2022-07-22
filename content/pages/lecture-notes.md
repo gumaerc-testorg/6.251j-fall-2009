@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides a complete set of lecture notes and the schedule
+  of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e0813047-f861-59ff-1aa0-72e4fa246c37
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +37,7 @@ LECTURE NOTES
 Formulations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec01))
+({{% resource_link 72668234-e718-4363-ade7-64713fac5bfc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +49,7 @@ Formulations
 Geometry I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec02))
+({{% resource_link 0820cfa3-e02c-9bbf-ce75-399c24e618de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +61,7 @@ Geometry I
 Geometry II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec03))
+({{% resource_link a09d067e-d937-3183-e052-759f2dc4a4cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +73,7 @@ Geometry II
 Geometry III
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec04))
+({{% resource_link 7b9fce7a-721c-bd6e-dd8a-9e7e0c354057 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +85,7 @@ Geometry III
 Simplex method I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec05))
+({{% resource_link 4fdf1a06-4972-88c2-4593-f7eedef7576e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +97,7 @@ Simplex method I
 Simplex method II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec06))
+({{% resource_link 2ef2f1dd-7045-b5f2-9e5f-aea299fb0798 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +109,7 @@ Simplex method II
 Simplex method III
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec07))
+({{% resource_link 12b1c7e8-8599-1696-c294-953b2497739c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +121,7 @@ Simplex method III
 Simplex method IV
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec08))
+({{% resource_link 496d9a38-5fd1-d7e1-aa82-837d91adb23e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +133,7 @@ Simplex method IV
 Duality theory I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec09))
+({{% resource_link b93d1665-d7a8-f05e-a626-b8f04c7ad66c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +145,7 @@ Duality theory I
 Duality theory II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec10))
+({{% resource_link ab890d20-b071-1052-39fe-0b9bcf599f57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +157,7 @@ Duality theory II
 Duality theory III
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec11))
+({{% resource_link c930c770-8698-90f3-a1a4-1067d5b0299d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +169,7 @@ Duality theory III
 Sensitivity analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec12))
+({{% resource_link 370982a2-d3b2-2e09-0aa7-a8d573bb5604 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +181,7 @@ Sensitivity analysis
 Robust optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec13))
+({{% resource_link 67e44add-53d2-377b-f853-b080b67c3fa2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +193,7 @@ Robust optimization
 Large scale optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec14))
+({{% resource_link 2c6daf76-a1e5-dd24-a350-6f359af00865 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +205,7 @@ Large scale optimization I
 Large scale optimization II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec15))
+({{% resource_link 3f7d8d98-9b1f-07a1-365c-5ff2465ca133 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +217,7 @@ Large scale optimization II
 Network flows I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec16))
+({{% resource_link 5b44cdff-c721-e334-af32-183b190996ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +235,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_251jf09_lec17))
+({{% resource_link 86a320f1-d972-69a0-128d-4925121e8679 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +247,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 The Ellipsoid method
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec18))
+({{% resource_link e13f5e66-50f7-be1e-2110-1a2e7bd0d5b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +259,7 @@ The Ellipsoid method
 Problems with exponentially many constraints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec19))
+({{% resource_link d1fd5889-58d9-10ff-d3b9-e80fbfe8dd0f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +271,7 @@ Problems with exponentially many constraints
 Interior point methods I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec20))
+({{% resource_link 5f00dd6d-bd0b-ffc1-dfce-b444bb02d15f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +283,7 @@ Interior point methods I
 Interior point methods II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec21))
+({{% resource_link b7e0327f-f400-19ba-ae4c-41c208fd8cc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +295,7 @@ Interior point methods II
 Interior point methods III
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec22))
+({{% resource_link 8b1eed01-6293-2fac-f950-af59e1423d05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +307,7 @@ Interior point methods III
 Semidefinite optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec23))
+({{% resource_link c83d51ab-dbe0-16b9-3b58-fef5964e8402 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +319,7 @@ Semidefinite optimization
 Discrete optimization I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec24))
+({{% resource_link e191f186-67de-dc48-774b-5efc08a6d125 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +331,7 @@ Discrete optimization I
 Discrete optimization II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec25))
+({{% resource_link d0be6aa7-393f-489a-419a-dd7cec874a4c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
