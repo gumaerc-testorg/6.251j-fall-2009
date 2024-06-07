@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-251j-introduction-to-mathematical-programming-fall-2009/6017d80f7a46f01478e88915b175b6b6_data.txt
+file_size: 2176
 file_type: text/plain
 learning_resource_types:
 - Assignments
